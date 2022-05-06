@@ -20,3 +20,5 @@ PyVISA:
 PySpice:
 
 PyMuPDF:
+
+Seaborn:
