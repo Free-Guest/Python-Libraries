@@ -9,18 +9,18 @@ SymPy: https://docs.sympy.org/latest/tutorial/index.html#tutorial
 
 Pandas:
 
-Matplotlib:
+Matplotlib: https://matplotlib.org/
 
-PySerial:
+PySerial: https://pyserial.readthedocs.io/en/latest/
 
 Socket:
 
-PyVISA:
+PyVISA: https://pypi.org/project/PyVISA/
 
 PySpice:
 
 PyMuPDF:
 
-Seaborn:
+Seaborn: https://seaborn.pydata.org/tutorial.html
 
 Dash:
