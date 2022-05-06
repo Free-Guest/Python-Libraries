@@ -5,7 +5,7 @@ NumPy:
 
 SciPy: https://scipy.github.io/devdocs/tutorial/general.html
 
-SymPy:
+SymPy: https://docs.sympy.org/latest/tutorial/index.html#tutorial
 
 Pandas:
 
